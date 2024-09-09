@@ -67,21 +67,47 @@ color: #2e2f42;
 .section-one {
     font-weight: 500;
     font-size: 56px;
-    line-height: 1.07;
+    line-height: 1.7;
     text-align: center;
-    color: #ffffff;
+    color:#ffffff ;
     background-color: #2e2f42;
     letter-spacing: 0.02em;
 }
 
-.header-logo .logo-part{
+.section-two {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
     color: #2e2f42;
-}
-
-.footer-logo .logo-part {
-    color: #f4f4fd;
+    letter-spacing: 0.02em;
 }
 
 
+.section-three {
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    color: #2e2f42;
+    letter-spacing: 0.02em;
+}
 
 
+
+.section-four {
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    color: #2e2f42;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+}
+
+
+.img-one,
+.img-two,
+.img-three,
+.img-four {
+    width: 360;
+}
